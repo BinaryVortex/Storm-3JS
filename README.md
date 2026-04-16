@@ -12,11 +12,11 @@ A dynamic storm simulation built using Three.js and GLSL shaders. This web-based
 
 ## 📸 Screenshots
 
-Replace the placeholder image paths below with your own screenshots:
+Replace the placeholder image URLs below with your own screenshots:
 
-![Storm Simulation Screenshot 1](./path/to/screenshot-1.png)
-![Storm Simulation Screenshot 2](./path/to/screenshot-2.png)
-![Storm Simulation Screenshot 3](./path/to/screenshot-3.png)
+![Storm Simulation Screenshot 1](https://placehold.co/1200x675?text=Storm+Screenshot+1)
+![Storm Simulation Screenshot 2](https://placehold.co/1200x675?text=Storm+Screenshot+2)
+![Storm Simulation Screenshot 3](https://placehold.co/1200x675?text=Storm+Screenshot+3)
 
 ## 🚀 Live Demo
 
