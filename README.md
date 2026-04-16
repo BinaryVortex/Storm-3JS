@@ -10,6 +10,14 @@ A dynamic storm simulation built using Three.js and GLSL shaders. This web-based
 - **Video Capture**: Press 'D' key to record and save the animation as a WebM video
 - **Responsive Design**: Adapts to different screen sizes and resolutions
 
+## 📸 Screenshots
+
+Replace the placeholder image URLs below with your own screenshots:
+
+![Storm Simulation Screenshot 1](https://placehold.co/1200x675?text=Storm+Screenshot+1)
+![Storm Simulation Screenshot 2](https://placehold.co/1200x675?text=Storm+Screenshot+2)
+![Storm Simulation Screenshot 3](https://placehold.co/1200x675?text=Storm+Screenshot+3)
+
 ## 🚀 Live Demo
 
 View the live demo: [https://binaryvortex.github.io/Storm-3JS/](https://binaryvortex.github.io/Storm-3JS/)
