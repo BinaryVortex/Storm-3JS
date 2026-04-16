@@ -37,12 +37,12 @@ View the live demo: [https://binaryvortex.github.io/Storm-3JS/](https://binaryvo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BinaryVortex/Storm-3JS.git
+git clone https://github.com/BinaryVortex/Storm-3JS.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Storm-3JS
+cd Storm-3JS
    ```
 
 3. Open `index.html` in your web browser.
@@ -52,6 +52,12 @@ Note: The project loads textures from external URLs, so it requires an internet 
 ## 📸 Screenshots
 
 The repository includes several screenshots showcasing different moments of the storm simulation.
+
+![Storm Simulation Screenshot 1](screenshots/screenshot1.png)
+
+![Storm Simulation Screenshot 2](screenshots/screenshot2.png)
+
+![Storm Simulation Screenshot 3](screenshots/screenshot3.png)
 
 ## 🤝 Contributing
 
