@@ -53,11 +53,15 @@ Note: The project loads textures from external URLs, so it requires an internet 
 
 The repository includes several screenshots showcasing different moments of the storm simulation.
 
-![Storm Simulation Screenshot 1](screenshots/screenshot1.png)
+![Storm Simulation Screenshot 1](Screenshot%202025-11-08%20013158.png)
 
-![Storm Simulation Screenshot 2](screenshots/screenshot2.png)
+![Storm Simulation Screenshot 2](Screenshot%202025-11-08%20013210.png)
 
-![Storm Simulation Screenshot 3](screenshots/screenshot3.png)
+![Storm Simulation Screenshot 3](Screenshot%202025-11-08%20013221.png)
+
+![Storm Simulation Screenshot 4](Screenshot%202025-11-08%20013240.png)
+
+![Storm Simulation Screenshot 5](Screenshot%202025-11-08%20013538.png)
 
 ## 🤝 Contributing
 
